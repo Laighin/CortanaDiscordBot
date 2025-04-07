@@ -36,26 +36,31 @@ npm start
 /kick <user> <reason> (optional)
 ```
 Kicks a user from the server. The `<reason>` is optional, but recommended for clarity.
+
 2. Timeout
 ```
 /timeout <user> <duration> <reason> (optional)
 ```
 Times out (mutes) a user for a specific `<duration>`.
+
 3. Ban
 ```
 /ban <user> <reason> (optional)
 ```
 Bans a user.
+
 4. Info
 ```
 /info
 ```
 Provides info on the bot.
+
 5. Ping
 ```
 /ping
 ```
 Provides the current ping.
+
 6. Schedule (Requires work)
 ```
 /schedule
